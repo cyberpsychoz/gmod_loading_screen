@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'DC';
+    src: url('../fonts/dolce_vita_light-webfont.eot');
+    src: url('../fonts/dolce_vita_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dolce_vita_light-webfont.woff') format('woff'),
+         url('../fonts/dolce_vita_light-webfont.ttf') format('truetype'),
+         url('../fonts/dolce_vita_light-webfont.svg#dolce_vita_lightsuper_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif !important;
+    background-repeat: no-repeat;
+    bottom: 0; 
+    right: 0;
+    -webkit-background-size: 100%;
+}
+
+h1 {
+    font-weight: 400 !important;
+}
+
+.imgtop {
+    max-width: 550px;
+}
